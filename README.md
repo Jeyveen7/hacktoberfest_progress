@@ -1,5 +1,5 @@
 # Hacktoberfest Progress 
-Hacktoberfest progress is a chrome extension madeto check you progress in the Hacktoberfest organised by DigitalOcean. It telss you how far you are from your goal and which of your Pull Requests were counted so far.
+Hacktoberfest Progress is a chrome extension created to check your progress in the Hacktoberfest organised by DigitalOcean. It tells you about how far you are from reaching your goal and which of your Pull Requests were counted so far.
 
 ## How to Contribute?
 
@@ -10,13 +10,13 @@ Hacktoberfest progress is a chrome extension madeto check you progress in the Ha
 
 ## How to use?
 
-Add the chrome extension from the link below
+Find the chrome extension from the link below
 
 ```
   https://chrome.google.com/webstore/detail/hacktoberfest-progress-ch/djpoekehoiafngfljnoihmbnckiegolf?hl=en
 ```
 
-After installation, click on the extension icon on the right of the address bar, eenter the Github Handle to search and click on 'Check Progress'.
+After installation, click on the extension icon on the right of the address bar, enter the Github Handle to search and click on 'Check Progress'.
 
 ## Contributors
 
@@ -24,3 +24,4 @@ After installation, click on the extension icon on the right of the address bar,
 [zuik](https://github.com/zuik)
 [raindogg](https://github.com/raindogg)
 [lmcjt37](https://github.com/lmcjt37)
+[jeyveen7](https://github.com/Jeyveen7)
